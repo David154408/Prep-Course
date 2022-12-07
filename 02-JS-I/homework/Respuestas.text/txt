@@ -1,0 +1,27 @@
+Respuestas
+Significado: 
+    Variables : una variable Una variable es un espacio con nombre
+             en la memoria, que almacena los valores  
+             En javascript se distinguen 5 tipos de variables: de tipo texto (string)
+             número, booleanas , objetos y funciones. 
+    String: son Cadenas de caracteres
+
+Una función : es similar a un procedimiento un conjunto de instrucciones
+            que realiza una tarea o calcula un valor, pero para que un 
+            procedimiento califique como función,debe tomar alguna entrada
+            y devolver una salida donde hay  alguna relación obvia entre
+            la entrada y la salida.
+
+Arguments  :es un tipo especial de datos que se genera en el interior
+            de cada función recogiendo todos los parámetros (argumentos) que 
+             se han enviado a la misma.
+
+IF es una estructura de control utilizada para tomar decisiones.
+            Es un condicional que sirve para realizar unas u otras operaciones
+            en función de una expresión. Funciona de la siguiente manera,
+            primero se evalúa una expresión, si da resultado positivo se
+            realizan las acciones relacionadas con el caso positivo
+
+             
+Un valor booleano representa un valor de verdad;
+            es decir, TRUE o FALSE
